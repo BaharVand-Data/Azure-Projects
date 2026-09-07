@@ -28,7 +28,8 @@ Using a combination of Azure services, I explored how data is stored, ingested, 
 
 <p align="center">
 
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1000&auto=format&fit=crop" alt="Azure Cloud Data Architecture" width="900" />
+<img width="1385" height="747" alt="image" src="https://github.com/user-attachments/assets/f162035c-87ef-484f-b792-1c1262083c78" />
+
 
 </p>
 
@@ -49,7 +50,7 @@ I designed and queried relational databases to manage structured business data, 
 
 <p align="center">
 
-<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1000&auto=format&fit=crop" alt="Azure SQL Query Execution" width="800" />
+<img width="853" height="503" alt="image" src="https://github.com/user-attachments/assets/7112e4c3-2dc3-4c4d-839a-5e61f3e0e843" />
 
 </p>
 
